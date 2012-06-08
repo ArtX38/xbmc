@@ -1,17 +1,19 @@
 # XBMC Media Center language file
+# Translators:
+# Artūras Griškonis <xbmc.lt@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: xbmc.core-Frodo\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
-"POT-Creation-Date: 2012-05-04 12:46+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE\n"
+"POT-Creation-Date: 2012-06-08 12:46+0000\n"
+"PO-Revision-Date: 2012-06-08 16:39+0000\n"
+"Last-Translator: Artūras Griškonis <xbmc.lt@gmail.com>\n"
+"Language-Team: Lithuanian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: lt\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
 
 msgctxt "#0"
 msgid "Programs"
@@ -359,7 +361,7 @@ msgstr "Pervadinti"
 
 msgctxt "#119"
 msgid "New folder"
-msgstr "Naujas aplankas"
+msgstr "Naujas katalogas"
 
 msgctxt "#120"
 msgid "Confirm file copy"
@@ -387,7 +389,7 @@ msgstr "Ištrynti failus? - Atkūrimas neįmanomas"
 
 msgctxt "#126"
 msgid "Status"
-msgstr "Padėtis"
+msgstr "Būklė"
 
 msgctxt "#127"
 msgid "Objects"
@@ -403,7 +405,7 @@ msgstr "Prezentacija"
 
 msgctxt "#130"
 msgid "System info"
-msgstr "Info apie sistemą"
+msgstr "Sistemos info"
 
 msgctxt "#131"
 msgid "Display"
@@ -435,7 +437,7 @@ msgstr "Paieška"
 
 msgctxt "#138"
 msgid "System Information"
-msgstr "Info apie sistemą"
+msgstr "Sistemos Informacija"
 
 msgctxt "#139"
 msgid "Temperatures:"
@@ -479,11 +481,11 @@ msgstr "DHCP"
 
 msgctxt "#149"
 msgid "MAC address"
-msgstr "MAC-adresas"
+msgstr "MAC adresas"
 
 msgctxt "#150"
 msgid "IP address"
-msgstr "IP-adresas"
+msgstr "IP adresas"
 
 msgctxt "#151"
 msgid "Link:"
@@ -503,7 +505,7 @@ msgstr "Laikmenos"
 
 msgctxt "#155"
 msgid "Drive"
-msgstr "DVD grotuvo dėtuvė"
+msgstr "DVD dėtuvė"
 
 msgctxt "#156"
 msgid "Free"
@@ -539,7 +541,7 @@ msgstr "Skaitymas"
 
 msgctxt "#164"
 msgid "No disc"
-msgstr "Grotuve nėra disko"
+msgstr "Nėra disko"
 
 msgctxt "#165"
 msgid "Disc present"
@@ -551,7 +553,7 @@ msgstr "Viršeliai"
 
 msgctxt "#169"
 msgid "Resolution"
-msgstr "Ekrano rezoliucija"
+msgstr "Rezoliucija"
 
 msgctxt "#170"
 msgid "Adjust display refresh rate to match video"
@@ -579,7 +581,7 @@ msgstr "Daina"
 
 msgctxt "#180"
 msgid "Duration"
-msgstr "Ilgis"
+msgstr "Trukmė"
 
 msgctxt "#181"
 msgid "Select album"
@@ -615,7 +617,7 @@ msgstr "Rinktis viską"
 
 msgctxt "#189"
 msgid "Scanning media info"
-msgstr "Media duomenų skenavimas"
+msgstr "Media duomenų nuskaitymas"
 
 msgctxt "#190"
 msgid "Save"
@@ -631,7 +633,7 @@ msgstr "Išvalyti"
 
 msgctxt "#193"
 msgid "Scan"
-msgstr "Skenuoti"
+msgstr "Nuskaityti"
 
 msgctxt "#194"
 msgid "Searching..."
@@ -655,19 +657,19 @@ msgstr "Duomenų atsiuntimas apie filmą"
 
 msgctxt "#199"
 msgid "Web interface"
-msgstr "Interneto sąsajos"
+msgstr "Interneto sąsaja"
 
 msgctxt "#202"
 msgid "Tagline"
-msgstr "Devizas"
+msgstr "Paantraštė"
 
 msgctxt "#203"
 msgid "Plot outline"
-msgstr "Siužetas"
+msgstr "Pažymėti kontūrai"
 
 msgctxt "#205"
 msgid "Votes"
-msgstr "Balsų:"
+msgstr "Balsai"
 
 msgctxt "#206"
 msgid "Cast"
@@ -675,7 +677,7 @@ msgstr "Artistai"
 
 msgctxt "#207"
 msgid "Plot"
-msgstr "Siužetas"
+msgstr "Pažymėti"
 
 msgctxt "#208"
 msgid "Play"
@@ -731,7 +733,7 @@ msgstr "Atšaukti"
 
 msgctxt "#224"
 msgid "Speed"
-msgstr "Prezentacijos rodymo laikas"
+msgstr "Spartinimas"
 
 msgctxt "#225"
 msgid "Vertical Shift"
@@ -743,7 +745,7 @@ msgstr "Testiniai šablonai..."
 
 msgctxt "#227"
 msgid "Lookup audio CD track names from freedb.org"
-msgstr "Ieškoti info apie audio CD internete"
+msgstr "Ieškoti info apie audio CD freedb.org"
 
 msgctxt "#228"
 msgid "Shuffle playlist on load"
@@ -763,7 +765,7 @@ msgstr "Tuščia"
 
 msgctxt "#232"
 msgid "Point"
-msgstr "Taškas"
+msgstr "Punktas"
 
 msgctxt "#233"
 msgid "Linear"
@@ -831,11 +833,11 @@ msgstr "Muzika"
 
 msgctxt "#250"
 msgid "Visualization"
-msgstr "Video efektai"
+msgstr "Vizualizacija"
 
 msgctxt "#251"
 msgid "Select destination directory"
-msgstr "Pasirinkite paskirties aplanką"
+msgstr "Pasirinkite paskirties katalogą"
 
 msgctxt "#252"
 msgid "Output stereo to all speakers"
@@ -843,7 +845,7 @@ msgstr "- stereo išėjimas į visus garsiakalbius"
 
 msgctxt "#253"
 msgid "Number of channels"
-msgstr "Kanalų kiekis"
+msgstr "Kanalų skaičius"
 
 msgctxt "#254"
 msgid "- DTS capable receiver"
@@ -969,6 +971,14 @@ msgctxt "#284"
 msgid "No results found"
 msgstr "Nieko nerasta"
 
+msgctxt "#285"
+msgid "Preferred audio language"
+msgstr "Pageidautina garso kalba"
+
+msgctxt "#286"
+msgid "Preferred subtitle language"
+msgstr "Pageidautina subtitrų kalba"
+
 msgctxt "#287"
 msgid "Subtitles"
 msgstr "Subtitrai"
@@ -1044,6 +1054,14 @@ msgstr "Įjungta"
 msgctxt "#306"
 msgid "Non-interleaved"
 msgstr "Ne-formatas"
+
+msgctxt "#308"
+msgid "Original stream's language"
+msgstr "Originali kalba"
+
+msgctxt "#309"
+msgid "User Interface language"
+msgstr "Vartotojo pasirinkta kalba"
 
 msgctxt "#312"
 msgid "(0=auto)"
@@ -1303,7 +1321,7 @@ msgstr "Ryte"
 
 msgctxt "#379"
 msgid "PM"
-msgstr "Dieną"
+msgstr "Vakare"
 
 msgctxt "#380"
 msgid "Showers"
@@ -1327,7 +1345,7 @@ msgstr "Stiprus"
 
 msgctxt "#385"
 msgid "Fair"
-msgstr "Ryški"
+msgstr "Ryškus"
 
 msgctxt "#386"
 msgid "Clear"
@@ -1339,7 +1357,7 @@ msgstr "Apsiniaukę"
 
 msgctxt "#388"
 msgid "Early"
-msgstr "Anksyvi"
+msgstr "Anksyvas"
 
 msgctxt "#389"
 msgid "Shower"
@@ -1475,11 +1493,11 @@ msgstr "Parinktys"
 
 msgctxt "#425"
 msgid "No album information found"
-msgstr "Duomenys apie albumą nerasti"
+msgstr "Duomenų apie albumą nerasta"
 
 msgctxt "#426"
 msgid "No CD information found"
-msgstr "Duomenys apie CD nerasti"
+msgstr "Duomenų apie CD nerasta"
 
 msgctxt "#427"
 msgid "Disc"
@@ -1495,7 +1513,7 @@ msgstr "Idėkite sekantį CD/DVD diską"
 
 msgctxt "#430"
 msgid "Sort by: DVD#"
-msgstr "Rušiuoti pagal: №DVD"
+msgstr "Rušiuoti pagal: DVD#"
 
 msgctxt "#431"
 msgid "No cache"
@@ -1515,15 +1533,15 @@ msgstr "Iš %s į %i %s"
 
 msgctxt "#437"
 msgid "Removable disk"
-msgstr "Keičiamasis diskas"
+msgstr "Pašalinti diską"
 
 msgctxt "#438"
 msgid "Opening file"
-msgstr "Failo atidarymas"
+msgstr "Atidaryti failą"
 
 msgctxt "#439"
 msgid "Cache"
-msgstr "Buferizacija"
+msgstr "Talpykla"
 
 msgctxt "#440"
 msgid "Harddisk"
@@ -1567,27 +1585,27 @@ msgstr "Įjungta"
 
 msgctxt "#450"
 msgid "Columns"
-msgstr "Ženklų kiekis eilėje"
+msgstr "Skiltys"
 
 msgctxt "#451"
 msgid "Row 1 address"
-msgstr "1 eilutė adresas"
+msgstr "1 Eilutės adresas"
 
 msgctxt "#452"
 msgid "Row 2 address"
-msgstr "2 eilutė adresas"
+msgstr "2 Eilutės adresas"
 
 msgctxt "#453"
 msgid "Row 3 address"
-msgstr "3 eilutė adresas"
+msgstr "3 Eilutės adresas"
 
 msgctxt "#454"
 msgid "Row 4 address"
-msgstr "4 eilutė adresas"
+msgstr "4 Eilutės adresas"
 
 msgctxt "#455"
 msgid "Rows"
-msgstr "Adresų eilių skaičius"
+msgstr "Eilutės"
 
 msgctxt "#456"
 msgid "Mode"
@@ -1615,11 +1633,11 @@ msgstr "Subtitrai"
 
 msgctxt "#463"
 msgid "Backlight"
-msgstr "Foninis ryškumas"
+msgstr "Pašvietimas"
 
 msgctxt "#464"
 msgid "Brightness"
-msgstr "Ryškumas"
+msgstr "Šviesumas"
 
 msgctxt "#465"
 msgid "Contrast"
@@ -1643,7 +1661,7 @@ msgstr "Ekrano pozicija (OSD)"
 
 msgctxt "#470"
 msgid "Credits"
-msgstr "Kūrėjai"
+msgstr "Kreditai"
 
 msgctxt "#471"
 msgid "Modchip"
@@ -1699,7 +1717,7 @@ msgstr "Kartoti vieną kartą"
 
 msgctxt "#488"
 msgid "Repeat folder"
-msgstr "Papkės kartojimas"
+msgstr "Kartoti katalogą"
 
 msgctxt "#489"
 msgid "Play the next song automatically"
@@ -1707,7 +1725,7 @@ msgstr "Groti sekantį failą automatiškai"
 
 msgctxt "#491"
 msgid "- Use big icons"
-msgstr "- naudoti didelius ženkliukus"
+msgstr "- Naudoti didelius ženkliukus"
 
 msgctxt "#492"
 msgid "Resize VobSubs"
@@ -1779,7 +1797,7 @@ msgstr "Auto perjungimas PAL/NTSC"
 
 msgctxt "#512"
 msgid "Startup window"
-msgstr "Paleidus pereiti į menių:"
+msgstr "Paleisties langas"
 
 msgctxt "#513"
 msgid "Home window"
@@ -1807,7 +1825,7 @@ msgstr "Paleisti režime..."
 
 msgctxt "#521"
 msgid "Compilations"
-msgstr "Rinkiniai"
+msgstr "Kompiliacijos"
 
 msgctxt "#522"
 msgid "Remove source"
@@ -1963,7 +1981,7 @@ msgstr "ID"
 
 msgctxt "#561"
 msgid "File"
-msgstr "Failo vardas"
+msgstr "Failas"
 
 msgctxt "#562"
 msgid "Year"
@@ -2039,7 +2057,7 @@ msgstr "Peržiūros režimas"
 
 msgctxt "#583"
 msgid "Remember views for different folders"
-msgstr "Atsiminti kiekvienos papkės nustatymo parametrus"
+msgstr "Atsiminti kiekvieno katalogo nustatymo parametrus"
 
 msgctxt "#584"
 msgid "Ascending"
@@ -2183,7 +2201,7 @@ msgstr "Normalus"
 
 msgctxt "#631"
 msgid "Zoom"
-msgstr "Padidintas"
+msgstr "Mastelis"
 
 msgctxt "#632"
 msgid "Stretch 4:3"
@@ -2191,7 +2209,7 @@ msgstr "Ištemptas 4:3"
 
 msgctxt "#633"
 msgid "Wide Zoom"
-msgstr "Ištemptas 14:9"
+msgstr "Platus Mastelis"
 
 msgctxt "#634"
 msgid "Stretch 16:9"
@@ -2207,11 +2225,11 @@ msgstr "Ypatingas"
 
 msgctxt "#637"
 msgid "Replay gain"
-msgstr "Replay Gain"
+msgstr "Replay gain"
 
 msgctxt "#638"
 msgid "Replaygain volume adjustments"
-msgstr "Režimas 'ReplayGain'"
+msgstr "Režimas 'Replaygain'"
 
 msgctxt "#639"
 msgid "Use track levels"
@@ -2223,15 +2241,15 @@ msgstr "Pagal albumą"
 
 msgctxt "#641"
 msgid "PreAmp Level - Replay gained files"
-msgstr "Lygis failams su 'ReplayGain'"
+msgstr "Lygis failams su 'Replaygain'"
 
 msgctxt "#642"
 msgid "PreAmp Level - Non replay gained files"
-msgstr "Lygis failams be 'ReplayGain'"
+msgstr "Lygis failams be 'Replaygain'"
 
 msgctxt "#643"
 msgid "Avoid clipping on replay gained files"
-msgstr "Išvengti iškraipymų failuose su 'ReplyGain'"
+msgstr "Išvengti iškraipymų failuose su 'Replygain'"
 
 msgctxt "#644"
 msgid "Crop black bars"
@@ -2287,7 +2305,7 @@ msgstr "Nurodykite biblioteką"
 
 msgctxt "#657"
 msgid "Browse for folder"
-msgstr "Nurodykite papkę"
+msgstr "Nurodykite katalogą"
 
 msgctxt "#658"
 msgid "Song information"
@@ -2303,7 +2321,7 @@ msgstr "Garso padidinimas"
 
 msgctxt "#661"
 msgid "Choose export folder"
-msgstr "Nurodykite papkę eksportui"
+msgstr "Nurodykite katalogą eksportui"
 
 msgctxt "#662"
 msgid "This file is no longer available."
@@ -2331,7 +2349,7 @@ msgstr "Senų dainų šalinimas iš bibliotekos"
 
 msgctxt "#702"
 msgid "This path has been scanned before"
-msgstr "Šis aplankas buvo patikrintas seniau"
+msgstr "Šis katalogas buvo patikrintas seniau"
 
 msgctxt "#705"
 msgid "Network"
@@ -2439,7 +2457,7 @@ msgstr "- Spalvos"
 
 msgctxt "#738"
 msgid "Normal"
-msgstr "Paprastas"
+msgstr "Normalus"
 
 msgctxt "#739"
 msgid "Bold"
@@ -2559,7 +2577,7 @@ msgstr "Paieška"
 
 msgctxt "#774"
 msgid "Slideshow folder"
-msgstr "Papkė prezentacijai"
+msgstr "Katalogas prezentacijai"
 
 msgctxt "#775"
 msgid "Network interface"
@@ -2623,7 +2641,7 @@ msgstr "Bevielio tinklo pavadinimas (ESSID)"
 
 msgctxt "#790"
 msgid "Remote control"
-msgstr ""
+msgstr "Nuotolinis valdymas"
 
 msgctxt "#791"
 msgid "Allow programs on this system to control XBMC"
@@ -2723,7 +2741,7 @@ msgstr "Tinklo kelias"
 
 msgctxt "#1012"
 msgid "Shared folder"
-msgstr "Pasiekiamas aplankalas"
+msgstr "Pasiekiamas katalogas"
 
 msgctxt "#1013"
 msgid "Port"
@@ -2775,7 +2793,7 @@ msgstr "Peržiūra"
 
 msgctxt "#1025"
 msgid "Could not retrieve directory information."
-msgstr "Neįmanoma gauti informacijos apie papkę"
+msgstr "Neįmanoma gauti informacijos apie katalogą"
 
 msgctxt "#1026"
 msgid "Add source"
@@ -2799,7 +2817,7 @@ msgstr "Nurodykite paveikslėlį"
 
 msgctxt "#1031"
 msgid "Browse for image folder"
-msgstr "Nurodykite papkę su paveikslėlais"
+msgstr "Nurodykite katalogą su paveikslėlais"
 
 msgctxt "#1032"
 msgid "Add network location..."
@@ -3031,7 +3049,7 @@ msgstr "Ar norite prisijungti prie rastos sistemos?"
 
 msgctxt "#1259"
 msgid "Zeroconf"
-msgstr ""
+msgstr "Zeroconf"
 
 msgctxt "#1260"
 msgid "Announce these services to other systems via Zeroconf"
@@ -3051,7 +3069,7 @@ msgstr "- Naudoti saugų slaptažodį"
 
 msgctxt "#1273"
 msgid "AirPlay"
-msgstr ""
+msgstr "AirPlay"
 
 msgctxt "#1300"
 msgid "Custom audio device"
@@ -3103,7 +3121,7 @@ msgstr "į"
 
 msgctxt "#1406"
 msgid "the"
-msgstr "..."
+msgstr "šis,tuo,tas"
 
 msgctxt "#1407"
 msgid "Vicinity"
@@ -3159,7 +3177,7 @@ msgstr "Perkūnija su lietumi"
 
 msgctxt "#1420"
 msgid "Moderate"
-msgstr "Ramus"
+msgstr "Vidutinis"
 
 msgctxt "#1421"
 msgid "Very High"
@@ -3167,7 +3185,7 @@ msgstr "Labai Aukštas"
 
 msgctxt "#1422"
 msgid "Windy"
-msgstr "Vėjuota"
+msgstr "Vėjuotas"
 
 msgctxt "#1423"
 msgid "Mist"
@@ -3187,11 +3205,11 @@ msgstr "Skriptas nesėkmingas! : %s"
 
 msgctxt "#2101"
 msgid "Newer version needed - See log"
-msgstr "Reikalinga naujesnė versija - Žiurėkite žurnalą"
+msgstr "Reikalinga naujesnė versija - Žr. prisijungti"
 
 msgctxt "#4501"
 msgid "Enable LCD/VFD"
-msgstr "Įjungti LCD/VFD displėjų"
+msgstr "Įjungti LCD/VFD"
 
 msgctxt "#10000"
 msgid "Home"
@@ -3283,7 +3301,7 @@ msgstr "Interneto Naršyklė"
 
 msgctxt "#10025"
 msgid "Videos"
-msgstr ""
+msgstr "Video"
 
 msgctxt "#10028"
 msgid "Videos/Playlist"
@@ -3303,7 +3321,7 @@ msgstr "Priedų naršyklė"
 
 msgctxt "#10100"
 msgid "Yes/No dialog"
-msgstr "Dialogas 'Taip/Ne'"
+msgstr "Dialogas Taip/Ne"
 
 msgctxt "#10101"
 msgid "Progress dialog"
@@ -3367,7 +3385,7 @@ msgstr "Orai"
 
 msgctxt "#10509"
 msgid "Network gaming"
-msgstr "Tinklo žaidimas"
+msgstr "Žaidimas tinkle"
 
 msgctxt "#10510"
 msgid "Extensions"
@@ -3375,7 +3393,7 @@ msgstr "Žymos"
 
 msgctxt "#10511"
 msgid "System info"
-msgstr "Informacija apie sistemą"
+msgstr "Sistemos info"
 
 msgctxt "#10516"
 msgid "Music - Library"
@@ -3383,19 +3401,19 @@ msgstr "Muzika - Biblioteka"
 
 msgctxt "#10517"
 msgid "Now Playing - Music"
-msgstr "Muzika - Dabartinė biblioteka"
+msgstr "Dabar grojami - Muzika"
 
 msgctxt "#10522"
 msgid "Now Playing - Videos"
-msgstr "Video - Dabartinė biblioteka"
+msgstr "Dabar grojami - Video"
 
 msgctxt "#10523"
 msgid "Album info"
-msgstr "Informacija apie albumą"
+msgstr "Albumo info"
 
 msgctxt "#10524"
 msgid "Movie info"
-msgstr "Informacija apie filmą"
+msgstr "Filmo info"
 
 msgctxt "#12000"
 msgid "Select dialog"
@@ -3403,7 +3421,7 @@ msgstr "Pasirinkimo dialogas"
 
 msgctxt "#12001"
 msgid "Music/Info"
-msgstr "Muzika/Duomenys"
+msgstr "Muzika/Info"
 
 msgctxt "#12002"
 msgid "Dialog OK"
@@ -3411,11 +3429,11 @@ msgstr "Dialogas 'Ok'"
 
 msgctxt "#12003"
 msgid "Videos/Info"
-msgstr "Video/Duomenys"
+msgstr "Video/Info"
 
 msgctxt "#12004"
 msgid "Scripts/Info"
-msgstr "Skriptai/Duomenys"
+msgstr "Skriptai/Info"
 
 msgctxt "#12005"
 msgid "Fullscreen video"
@@ -3603,7 +3621,7 @@ msgstr "Keisti apsaugą"
 
 msgctxt "#12357"
 msgid "Source lock"
-msgstr "Apsaugos šaltinis"
+msgstr "Šaltinio fiksavimas"
 
 msgctxt "#12358"
 msgid "Password entry was blank. Try again."
@@ -3667,15 +3685,15 @@ msgstr "Sistemos veikimo laikas"
 
 msgctxt "#12391"
 msgid "Minutes"
-msgstr "Min."
+msgstr "Minutės"
 
 msgctxt "#12392"
 msgid "Hours"
-msgstr "Val."
+msgstr "Valandos"
 
 msgctxt "#12393"
 msgid "Days"
-msgstr "Dien."
+msgstr "Diena"
 
 msgctxt "#12394"
 msgid "Total uptime"
@@ -3799,7 +3817,7 @@ msgstr "Vertikali sinchronizacija"
 
 msgctxt "#13106"
 msgid "Disabled"
-msgstr "Atjungta"
+msgstr "Išjungta"
 
 msgctxt "#13107"
 msgid "Enabled during video playback"
@@ -3827,7 +3845,7 @@ msgstr "Aukštos kokybės mastelis"
 
 msgctxt "#13113"
 msgid "Disabled"
-msgstr "Atjungta"
+msgstr "Išjungta"
 
 msgctxt "#13114"
 msgid "Enabled for SD content"
@@ -3871,7 +3889,7 @@ msgstr "Ekrano užsklanda"
 
 msgctxt "#13131"
 msgid "Disabled"
-msgstr "Atjungta"
+msgstr "Išjungta"
 
 msgctxt "#13132"
 msgid "Blank displays"
@@ -4103,7 +4121,7 @@ msgstr "Aušintuvo greitčio konrtolė"
 
 msgctxt "#13303"
 msgid "- Fonts"
-msgstr "- Šrifto apiforminimas"
+msgstr "- Šriftas"
 
 msgctxt "#13304"
 msgid "Enable flipping bi-directional strings"
@@ -4195,7 +4213,7 @@ msgstr "Teksto skaidrumas"
 
 msgctxt "#13326"
 msgid "A/V delay"
-msgstr "Garso vėlinimas vaizdo atžvilgiu"
+msgstr "A/V užlaikymas"
 
 msgctxt "#13327"
 msgid "Karaoke"
@@ -4263,7 +4281,7 @@ msgstr "Perjungti LED atkūrimo metu"
 
 msgctxt "#13346"
 msgid "Movie information"
-msgstr "Duomenys apie filmą"
+msgstr "Filmo informacija"
 
 msgctxt "#13347"
 msgid "Queue item"
@@ -4283,7 +4301,7 @@ msgstr "Aktualus grojaraštis..."
 
 msgctxt "#13351"
 msgid "Album information"
-msgstr "Duomenys apie albumą"
+msgstr "Albumo informacija"
 
 msgctxt "#13352"
 msgid "Scan item to library"
@@ -4383,11 +4401,11 @@ msgstr "Išankstinis diegimas"
 
 msgctxt "#13389"
 msgid "There are no presets available\nfor this visualization"
-msgstr "Šiai vizualizacijai išankstinių nustatymų nėra\nši vizualizacija"
+msgstr "Šiai vizualizacijai išankstinių nustatymų nėra"
 
 msgctxt "#13390"
 msgid "There are no settings available\nfor this visualization"
-msgstr "Šiai vizualizacijai parametrų nėra\nši vizualizacija"
+msgstr "Šiai vizualizacijai parametrų nėra"
 
 msgctxt "#13391"
 msgid "Eject/Load"
@@ -4403,7 +4421,7 @@ msgstr "Apskaičiuoti dydį"
 
 msgctxt "#13394"
 msgid "Calculating folder size"
-msgstr "Papkės dydžio apskaičiavimas"
+msgstr "Katalogo dydžio apskaičiavimas"
 
 msgctxt "#13395"
 msgid "Video settings"
@@ -4455,7 +4473,7 @@ msgstr "Duomenys apie foto"
 
 msgctxt "#13407"
 msgid "%s presets"
-msgstr "%s priešnustatymai"
+msgstr "%s išankstiniai nustatymai"
 
 msgctxt "#13408"
 msgid "(IMDb user rating)"
@@ -4559,7 +4577,7 @@ msgstr "Leisti aparatūros spartinimą (VideoToolbox)"
 
 msgctxt "#13500"
 msgid "A/V sync method"
-msgstr "Sinchr. metodas A/V"
+msgstr "A/V sinchronizavimo metodas"
 
 msgctxt "#13501"
 msgid "Audio clock"
@@ -4583,19 +4601,19 @@ msgstr "Konvertavimo kokybė"
 
 msgctxt "#13506"
 msgid "Low(fast)"
-msgstr "Žema"
+msgstr "Mažas(greitai)"
 
 msgctxt "#13507"
 msgid "Medium"
-msgstr "Vidutinė"
+msgstr "Vidutinis"
 
 msgctxt "#13508"
 msgid "High"
-msgstr "Aukšta"
+msgstr "Aukštas"
 
 msgctxt "#13509"
 msgid "Really high(slow!)"
-msgstr "Labai aukšta"
+msgstr "Labai aukštas"
 
 msgctxt "#13510"
 msgid "Sync playback to display"
@@ -4747,43 +4765,43 @@ msgstr "Įveskite artimiausią miestą"
 
 msgctxt "#14025"
 msgid "Video/Audio/DVD cache - Harddisk"
-msgstr "Audio/Video/DVD - iš HDD"
+msgstr "Audio/Video/DVD talpykla- HDD"
 
 msgctxt "#14026"
 msgid "Video cache - DVD-ROM"
-msgstr "Video - iš DVD disko"
+msgstr "Video talpykla- DVD-ROM"
 
 msgctxt "#14027"
 msgid "- Local Network"
-msgstr "- iš vietinio tinklo"
+msgstr "- Vietinis Tinklas"
 
 msgctxt "#14028"
 msgid "- Internet"
-msgstr "- iš interneto"
+msgstr "- Internetas"
 
 msgctxt "#14030"
 msgid "Audio cache - DVD-ROM"
-msgstr "Audio - iš CD/DVD disko"
+msgstr "Audio talpykla - DVD-ROM"
 
 msgctxt "#14031"
 msgid "- Local Network"
-msgstr "- iš vietinio tinklo"
+msgstr "- Vietinis Tinklas"
 
 msgctxt "#14032"
 msgid "- Internet"
-msgstr "- iš interneto"
+msgstr "- Internetas"
 
 msgctxt "#14034"
 msgid "DVD cache - DVD-ROM"
-msgstr "DVD kešas - iš DVD disko"
+msgstr "DVD talpykla - DVD-ROM"
 
 msgctxt "#14035"
 msgid "- Local Network"
-msgstr "- iš vietinio tinklo"
+msgstr "- Vietinis Tinklas"
 
 msgctxt "#14036"
 msgid "Services"
-msgstr "Servisas(paslaugos)"
+msgstr "Servisas"
 
 msgctxt "#14038"
 msgid "Network settings changed"
@@ -4963,7 +4981,7 @@ msgstr "Atkūrimas"
 
 msgctxt "#14087"
 msgid "DVDs"
-msgstr "DVD"
+msgstr "DVDs"
 
 msgctxt "#14088"
 msgid "Play DVDs automatically"
@@ -4983,35 +5001,35 @@ msgstr "Koduotė"
 
 msgctxt "#14092"
 msgid "Debugging"
-msgstr "Derinimo"
+msgstr "Derinimas"
 
 msgctxt "#14093"
 msgid "Security"
-msgstr "Apsaugos"
+msgstr "Apsauga"
 
 msgctxt "#14094"
 msgid "Input devices"
-msgstr "Jungčių"
+msgstr "Jungtys"
 
 msgctxt "#14095"
 msgid "Power saving"
-msgstr "Energijos"
+msgstr "Energija"
 
 msgctxt "#14096"
 msgid "Rip"
-msgstr ""
+msgstr "Ripas"
 
 msgctxt "#14097"
 msgid "Audio CD Insert Action"
-msgstr ""
+msgstr "Audio CD Įterpties veiksmas"
 
 msgctxt "#14098"
 msgid "Play"
-msgstr ""
+msgstr "Groti"
 
 msgctxt "#14099"
 msgid "Eject disc when CD ripping is complete"
-msgstr ""
+msgstr "Išstumti CD kai jo ripinimas bus baigtas"
 
 msgctxt "#15015"
 msgid "Remove"
@@ -5419,11 +5437,11 @@ msgstr "Įveskite naują failo pavadinimą"
 
 msgctxt "#16014"
 msgid "Enter folder name"
-msgstr "Įveskite aplanko pavadinimą"
+msgstr "Įveskite katalogo pavadinimą"
 
 msgctxt "#16015"
 msgid "Enter directory"
-msgstr "Įveskite aplanką"
+msgstr "Atidaryti katalogą"
 
 msgctxt "#16016"
 msgid "Available options: %A, %T, %N, %B, %D, %G, %Y, %F, %S"
@@ -5703,15 +5721,15 @@ msgstr "Išorinis DVD grotuvas"
 
 msgctxt "#20003"
 msgid "Trainers folder"
-msgstr "Trainers aplankas"
+msgstr "Trainers katalogas"
 
 msgctxt "#20004"
 msgid "Screenshot folder"
-msgstr "Ekrano vaizdo aplankas"
+msgstr "Ekrano vaizdo katalogas"
 
 msgctxt "#20006"
 msgid "Playlists folder"
-msgstr "Grojaraščių aplankas"
+msgstr "Grojaraščių katalogas"
 
 msgctxt "#20007"
 msgid "Recordings"
@@ -5903,11 +5921,11 @@ msgstr "Blokuoti profilį"
 
 msgctxt "#20069"
 msgid "Could not create folder"
-msgstr "Neįmanoma sukurti aplanko"
+msgstr "Neįmanoma sukurti katalogo"
 
 msgctxt "#20070"
 msgid "Profile directory"
-msgstr "Profilio aplankas"
+msgstr "Profilio katalogas"
 
 msgctxt "#20071"
 msgid "Start with fresh media sources"
@@ -5915,7 +5933,7 @@ msgstr "Paleiskite su naujais ištekliais"
 
 msgctxt "#20072"
 msgid "Make sure the selected folder is writable"
-msgstr "Įsitikinkite, kad aplankas yra atidarytas"
+msgstr "Įsitikinkite, kad katalogas yra atidarytas"
 
 msgctxt "#20073"
 msgid "and that the new folder name is valid"
@@ -6271,7 +6289,7 @@ msgstr "Viso"
 
 msgctxt "#20162"
 msgid "Used"
-msgstr "Užimta"
+msgstr "Naudotas"
 
 msgctxt "#20163"
 msgid "of"
@@ -6371,7 +6389,7 @@ msgstr "Prašome palaukti"
 
 msgctxt "#20187"
 msgid "UPnP"
-msgstr ""
+msgstr "UPnP"
 
 msgctxt "#20189"
 msgid "Enable auto scrolling for plot & review"
@@ -6475,7 +6493,7 @@ msgstr "Serverio katalogas (HTTPS)"
 
 msgctxt "#20302"
 msgid "Unable to write to folder:"
-msgstr "Neįmanoma įrašyti į aplanką:"
+msgstr "Neįmanoma įrašyti į katalogą:"
 
 msgctxt "#20303"
 msgid "Do you want to skip and proceed?"
@@ -6495,7 +6513,7 @@ msgstr "Serveris DHCP:"
 
 msgctxt "#20309"
 msgid "Make new folder"
-msgstr "Sukurti naują aplanką"
+msgstr "Sukurti naują katalogą"
 
 msgctxt "#20310"
 msgid "Dim LCD on playback"
@@ -6539,11 +6557,11 @@ msgstr "Nurodykite tikslą"
 
 msgctxt "#20329"
 msgid "Movies are in separate folders that match the movie title"
-msgstr "Filmai atskiruose aplankuose, kurie atitinka filmo pavadinimą"
+msgstr "Filmai atskiruose kataloguose, kurie atitinka filmo pavadinimą"
 
 msgctxt "#20330"
 msgid "Use folder names for lookups"
-msgstr "Naudokite aplankų pavadinimus ieškant"
+msgstr "Naudokite katalogą ieškant pavadinimų"
 
 msgctxt "#20331"
 msgid "File"
@@ -6551,7 +6569,7 @@ msgstr "Failo"
 
 msgctxt "#20332"
 msgid "Use file or folder names in lookups?"
-msgstr "Naudoti failų ar aplankų vardus ieškant?"
+msgstr "Naudoti failų ar katalogų vardus ieškant?"
 
 msgctxt "#20333"
 msgid "Set content"
@@ -6559,11 +6577,11 @@ msgstr "Turinys"
 
 msgctxt "#20334"
 msgid "Folder"
-msgstr "Papkė"
+msgstr "Katalogas"
 
 msgctxt "#20335"
 msgid "Look for content recursively?"
-msgstr "Peržiūrėti papkių turinį?"
+msgstr "Peržiūrėti katlogų turinį?"
 
 msgctxt "#20336"
 msgid "Unlock sources"
@@ -6599,7 +6617,7 @@ msgstr "Serialai"
 
 msgctxt "#20344"
 msgid "This directory contains"
-msgstr "Šiame aplanke yra"
+msgstr "Šiame kataloge yra"
 
 msgctxt "#20345"
 msgid "Run automated scan"
@@ -6643,7 +6661,7 @@ msgstr "Instrukcija apie epizodo pasirinkimą"
 
 msgctxt "#20355"
 msgid "Loading info for episodes in directory"
-msgstr "Duomenų ikėlimas apie epizodus papkėse"
+msgstr "Duomenų ikėlimas apie epizodus į katalogus"
 
 msgctxt "#20356"
 msgid "Select TV show:"
@@ -6743,7 +6761,7 @@ msgstr "Nurodytas katalogas turi atskirą serialą"
 
 msgctxt "#20380"
 msgid "Exclude selected folder from scans"
-msgstr "Neskaityti pasirinkto aplanko"
+msgstr "Neskaityti pasirinkto katalogo"
 
 msgctxt "#20381"
 msgid "Specials"
@@ -6991,7 +7009,7 @@ msgstr "Norite atnaujinti informaciją visiems"
 
 msgctxt "#20444"
 msgid "items within this path?"
-msgstr "šio aplanko elementams?"
+msgstr "šio katalogo elementams?"
 
 msgctxt "#20445"
 msgid "Fanart"
@@ -7051,7 +7069,7 @@ msgstr "Grupiniai filmų rinkiniai"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
-msgstr "Rodyti paslėptus failus ir aplankus"
+msgstr "Rodyti paslėptus failus ir katalogus"
 
 msgctxt "#21331"
 msgid "TuxBox client"
@@ -7087,7 +7105,7 @@ msgstr "Pridėti medijos resursai..."
 
 msgctxt "#21360"
 msgid "Share video and music libraries through UPnP"
-msgstr "Prieiga prie medija resursai per UPnP"
+msgstr "Prieiga prie medija resursų per UPnP"
 
 msgctxt "#21364"
 msgid "Edit media share"
@@ -7099,11 +7117,11 @@ msgstr "Pašalinti media resursai"
 
 msgctxt "#21366"
 msgid "Subtitle folder"
-msgstr "Ypatingas aplankas subtitrams"
+msgstr "Ypatingas katalogas subtitrams"
 
 msgctxt "#21367"
 msgid "Movie & alternate subtitle directory"
-msgstr "Aplankas filmams ir alternatyviems subtitrams"
+msgstr "Katlogas filmams ir alternatyviems subtitrams"
 
 msgctxt "#21368"
 msgid "Override ASS/SSA subtitles fonts"
@@ -7215,7 +7233,7 @@ msgstr "Sumažintas laukimas"
 
 msgctxt "#21395"
 msgid "Unable to cache files bigger than 4GB"
-msgstr "Neįmanoma įkelti failo didesnio kaip 4 GB"
+msgstr "Negalimos bylos talpykloje didesnės kaip 4 GB"
 
 msgctxt "#21396"
 msgid "Chapter"
@@ -7395,7 +7413,7 @@ msgstr "Keisti režimo taisykles 'Party'"
 
 msgctxt "#21440"
 msgid "Home folder"
-msgstr "Namų papkė"
+msgstr "Namų katalogas"
 
 msgctxt "#21441"
 msgid "Watched count"
@@ -7503,7 +7521,7 @@ msgstr "Prezentacijos indekas"
 
 msgctxt "#21805"
 msgid "Resolution"
-msgstr "Išmatavimai"
+msgstr "Rezoliucija"
 
 msgctxt "#21806"
 msgid "Comment"
@@ -7699,7 +7717,7 @@ msgstr "Nuorodos tarnyba"
 
 msgctxt "#21881"
 msgid "Allow control of XBMC via UPnP"
-msgstr "Vykdyti kontrolę XBMC per UPnP"
+msgstr "Vykdyti XBMC kontrolę per UPnP"
 
 msgctxt "#21882"
 msgid "Attempt to skip introduction before DVD menu"
@@ -8115,7 +8133,7 @@ msgstr "Išdiegti"
 
 msgctxt "#24038"
 msgid "Install"
-msgstr "Nustatyti"
+msgstr "Įdiegti"
 
 msgctxt "#24039"
 msgid "Disabled Add-ons"
@@ -8299,27 +8317,27 @@ msgstr "Pranešimai"
 
 msgctxt "#25001"
 msgid "Hide foreign"
-msgstr ""
+msgstr "Slėpti svetimą"
 
 msgctxt "#25002"
 msgid "Select from all titles ..."
-msgstr ""
+msgstr "Pasirinkite visus pavadinimus ..."
 
 msgctxt "#25003"
 msgid "Show bluray menus"
-msgstr ""
+msgstr "Rodyti Bluray meniu"
 
 msgctxt "#25004"
 msgid "Play main title: %d"
-msgstr ""
+msgstr "Rodyti pagrindinį pavadinimą: %d"
 
 msgctxt "#25005"
 msgid "Title: %d"
-msgstr ""
+msgstr "Pavadinimas: %d"
 
 msgctxt "#25006"
 msgid "Select playback item"
-msgstr ""
+msgstr "Pasirinkite atkūrimo elementą"
 
 msgctxt "#29800"
 msgid "Library Mode"
@@ -8709,6 +8727,35 @@ msgctxt "#34110"
 msgid "7.1"
 msgstr "7.1"
 
+#34111-34119 reserved for future use
+#empty strings from id 34111 to 34119
+
+#: xbmc/settings/GUISettings.cpp
+msgctxt "#34120"
+msgid "Play GUI sounds"
+msgstr "Groti GUI"
+
+#. play GUI sounds
+#: xbmc/settings/GUISettings.cpp
+msgctxt "#34121"
+msgid "Only when playback stopped"
+msgstr "Tik tada, kai atkūrimas sustabdytas"
+
+#. play GUI sounds
+#: xbmc/settings/GUISettings.cpp
+msgctxt "#34122"
+msgid "Always"
+msgstr "Visada"
+
+#. play GUI sounds
+#: xbmc/settings/GUISettings.cpp
+msgctxt "#34123"
+msgid "Never"
+msgstr "Niekada"
+
+#34124-34200 reserved for future use
+#empty strings from id 34124 to 34200
+
 msgctxt "#34201"
 msgid "Can't find a next item to play"
 msgstr "Nerasta kito failo grojimui"
@@ -8723,7 +8770,7 @@ msgstr "Nesėkminga paleistis zeroconf"
 
 msgctxt "#34301"
 msgid "Is Apple's Bonjour Service installed? See log for more info."
-msgstr "Ar įdiegta \"Apple Bonjour\" tarnyba? Prisijungti, gauti daugiau info."
+msgstr "Ar įdiegta \"Apple Bonjour\" tarnyba? Prisijungti, kad gauti daugiau info."
 
 msgctxt "#34400"
 msgid "Video Rendering"
@@ -8743,23 +8790,23 @@ msgstr "Patikrinkite savo garso nustatymus"
 
 msgctxt "#34404"
 msgid "Use gestures for navigation:"
-msgstr ""
+msgstr "Naudokite gestus navigacijai:"
 
 msgctxt "#34405"
 msgid "1 finger swipe left,right,up,down for cursors"
-msgstr ""
+msgstr "1 finger swipe left,right,up,down for cursors"
 
 msgctxt "#34406"
 msgid "2 finger swipe left for backspace"
-msgstr ""
+msgstr "2 finger swipe left for backspace"
 
 msgctxt "#34407"
 msgid "1 finger single tap for enter"
-msgstr ""
+msgstr "1 finger single tap for enter"
 
 msgctxt "#34408"
 msgid "2 finger single tap or 1 finger long press for contextmenu"
-msgstr ""
+msgstr "2 finger single tap or 1 finger long press for contextmenu"
 
 msgctxt "#35000"
 msgid "Peripherals"
@@ -8779,7 +8826,7 @@ msgstr "Bendras diskas"
 
 msgctxt "#35004"
 msgid "There are no settings available\nfor this peripheral."
-msgstr "Nėra jokių prieinamų nustatymų\nšiai periferijai."
+msgstr "Nėra jokių prieinamų nustatymų periferijai."
 
 msgctxt "#35005"
 msgid "New device configured"
@@ -8799,7 +8846,7 @@ msgstr "Nuoroda atidaryta"
 
 msgctxt "#35009"
 msgid "Do not use the custom keymap for this device"
-msgstr ""
+msgstr "Negalima naudoti nestandartinių klavišų lentelės"
 
 msgctxt "#35500"
 msgid "Location"
@@ -8895,29 +8942,28 @@ msgstr "Naudokite TV kalbos nustatymus"
 
 msgctxt "#36019"
 msgid "Connected to HDMI device"
-msgstr ""
+msgstr "Prijungta prie HDMI prietaiso"
 
 msgctxt "#36020"
 msgid "Make XBMC the active source when starting"
-msgstr ""
+msgstr "Padaryti XBMC aktyvų šaltinį paleidžiant"
 
 msgctxt "#36021"
 msgid "Physical address (overrules HDMI port)"
-msgstr ""
+msgstr "Fizinio adreso tasyklė (HDMI prievadas)"
 
 msgctxt "#36022"
 msgid "COM port (leave empty unless needed)"
-msgstr ""
+msgstr "COM prievadas (palikti tuščią, išskyrus atvejus kai būtina)"
 
 msgctxt "#36023"
 msgid "Configuration updated"
-msgstr ""
+msgstr "Konfigūracijos atnaujinimas"
 
 msgctxt "#36024"
 msgid "Failed to set the new configuration. Please check your settings."
-msgstr ""
+msgstr "Nepavyko nustatyti naujos konfigūracijos. Prašome patikrinti savo parametrus."
 
 msgctxt "#36025"
 msgid "Send 'inactive source' command when stopping XBMC"
-msgstr ""
-
+msgstr "Siųsti "neaktyvus šaltinis" komandą XBMC stabdymui"
